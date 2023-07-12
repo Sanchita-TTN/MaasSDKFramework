@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
 
  
   spec.description  = "MaasSdk helps you to show Ads on your player"
-  spec.homepage     = "https://github.com/Sanchita-TTN/MaasSDK"
+  spec.homepage     = "https://github.com/Sanchita-TTN/MaasSDKFramework"
 
   spec.license      = "MIT"
   # spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
@@ -21,7 +21,7 @@ Pod::Spec.new do |spec|
   # spec.tvos.deployment_target = "9.0"
 
 
-  spec.source       = { :git => "https://github.com/Sanchita-TTN/MaasSDK.git", :tag => "1.0.0" }
+  spec.source       = { :git => "https://github.com/Sanchita-TTN/MaasSDKFramework.git", :tag => "1.0.0" }
 
 
   spec.source_files  = "MaasSDKFramework"
